@@ -1,6 +1,6 @@
 ## Hi, I'm Tiago! 🧑🏻‍💻 
 
-Software Engineer at [Revolut](https://www.revolut.com/)  
+Senior Software Engineer at [Revolut](https://www.revolut.com/)  
 
 ### More about me
 
